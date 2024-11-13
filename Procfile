@@ -1,1 +1,1 @@
-web: gunicorn i_think_there4.wsgi
+web: gunicorn my_project.wsgi
